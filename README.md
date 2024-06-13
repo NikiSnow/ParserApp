@@ -12,7 +12,7 @@
 
 ## Установка и настройка
 ```bash
-- git clone <URL вашего репозитория>
+- git clone https://github.com/NikiSnow/ParserApp
 - cd ParseApp
 - загрузите ваши access.log
 - при необходимости отредактируйте parser.ini
